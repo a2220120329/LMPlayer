@@ -1,0 +1,45 @@
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\bin\x64\Debug\WpfApp1.exe.config
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\bin\x64\Debug\WpfApp1.exe
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\bin\x64\Debug\WpfApp1.pdb
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\bin\x64\Debug\MaterialDesignColors.dll
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\bin\x64\Debug\NAudio.dll
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\bin\x64\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\bin\x64\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\bin\x64\Debug\NAudio.xml
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\x64\Debug\MainWindow.g.cs
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\x64\Debug\App.g.cs
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\x64\Debug\App.baml
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\x64\Debug\MainWindow.baml
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.g.resources
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.exe
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.pdb
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\x64\Debug\WpfApp1.exe.config
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\x64\Debug\WpfApp1.exe
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\x64\Debug\WpfApp1.pdb
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\x64\Debug\MaterialDesignColors.dll
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\x64\Debug\NAudio.dll
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\x64\Debug\MaterialDesignThemes.Wpf.pdb
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\x64\Debug\MaterialDesignThemes.Wpf.xml
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\x64\Debug\MainWindow.g.cs
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\x64\Debug\App.g.cs
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.cache
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.lref
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\x64\Debug\App.baml
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\x64\Debug\MainWindow.baml
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.g.resources
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.Properties.Resources.resources
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.csproj.GenerateResource.Cache
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.exe
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\x64\Debug\WpfApp1.pdb
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\x64\Debug\MaterialDesignColors.pdb

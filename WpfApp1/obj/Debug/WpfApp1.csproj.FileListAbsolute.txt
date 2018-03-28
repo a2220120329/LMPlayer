@@ -1,0 +1,80 @@
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\Debug\NAudio.dll
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.dll
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.dll
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\bin\Debug\NAudio.dll
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\bin\Debug\NAudio.xml
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\jiangwenyu\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.pdb
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\Debug\Id3Lib.dll
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\Debug\policy.2.0.taglib-sharp.dll
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\Debug\taglib-sharp.dll
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\bin\Debug\policy.2.0.taglib-sharp.config
+H:\Program Files\Visual_Project\c#projects\NAudioDemo002\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe.config
+C:\gitProjects\LMPlayer-master\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\gitProjects\LMPlayer-master\WpfApp1\bin\Debug\WpfApp1.exe
+C:\gitProjects\LMPlayer-master\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\gitProjects\LMPlayer-master\WpfApp1\bin\Debug\Id3Lib.dll
+C:\gitProjects\LMPlayer-master\WpfApp1\bin\Debug\MaterialDesignColors.dll
+C:\gitProjects\LMPlayer-master\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\gitProjects\LMPlayer-master\WpfApp1\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\gitProjects\LMPlayer-master\WpfApp1\bin\Debug\taglib-sharp.dll
+C:\gitProjects\LMPlayer-master\WpfApp1\bin\Debug\MaterialDesignColors.pdb
+C:\gitProjects\LMPlayer-master\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\gitProjects\LMPlayer-master\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\gitProjects\LMPlayer-master\WpfApp1\bin\Debug\policy.2.0.taglib-sharp.config
+C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\WpfApp1.exe.config
+C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\App.g.cs
+C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\App.baml
+C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\MainWindow.baml
+C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\WpfApp1.exe
+C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\WpfApp1.pdb
