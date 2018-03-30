@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\obj\Debug\
 WpfApp1
 none
 false
 DEBUG;TRACE
-C:\gitProjects\LMPlayer-master\WpfApp1\App.xaml
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\App.xaml
 11151548125
 11737046139
-13-134122342
-21522932657
+141088092846
+211654552521
 MainWindow.xaml;
 
-False
+True
 

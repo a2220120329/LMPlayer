@@ -34,18 +34,17 @@ namespace WpfApp1
         AudioFileReader af=null;
         Thread t;
         MusicInfo m1 = new MusicInfo();
+        Thread playerThread;
+        MusicPlayer player1;
         public MainWindow()
         {
             InitializeComponent();
 
 
             MusicInfoInit();
-
+            player1 = new MusicPlayer();
             
-
-            
-
-
+            t = new Thread(player1.play);
         }
         private void MusicInfoInit()
         {
@@ -103,12 +102,7 @@ namespace WpfApp1
             {
                 TagLibSharpSub subtag = new TagLibSharpSub();
                 subtag.init(fName);
-                
                 MusicCover.Source = new BitmapImage(new Uri(subtag.GetImagePath()));
-                
-                
-                
-                
                 //开启封面旋转动画
                 //CoverImgRote(true);
 
@@ -118,11 +112,13 @@ namespace WpfApp1
                 af = new AudioFileReader(fName);
                 //af = new AudioFileReader(@"F:\音乐\阿涵 - 过客.mp3");
                 wo.Init(af);
-                
+                player1.pwo = wo;
+
                 if (playstate == false)
                 {
                     playstate = true;
-                    wo.Play();
+                    //wo.Play();
+                    t.Start();
                     if (!t.IsAlive)
                         t.Start();
                 }

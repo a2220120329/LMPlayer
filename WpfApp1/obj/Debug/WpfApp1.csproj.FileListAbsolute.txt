@@ -78,3 +78,30 @@ C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInput
 C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
 C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\WpfApp1.exe
 C:\gitProjects\LMPlayer-master\WpfApp1\obj\Debug\WpfApp1.pdb
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\bin\Debug\WpfApp1.exe.config
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\bin\Debug\WpfApp1.exe
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\bin\Debug\WpfApp1.pdb
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\bin\Debug\Id3Lib.dll
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\bin\Debug\MaterialDesignColors.dll
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\bin\Debug\policy.2.0.taglib-sharp.dll
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\bin\Debug\taglib-sharp.dll
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\bin\Debug\MaterialDesignColors.pdb
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\bin\Debug\policy.2.0.taglib-sharp.config
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\obj\Debug\WpfApp1.exe.config
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\obj\Debug\MainWindow.g.cs
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\obj\Debug\App.g.cs
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\obj\Debug\App.baml
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\obj\Debug\MainWindow.baml
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\obj\Debug\WpfApp1.g.resources
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\obj\Debug\WpfApp1.exe
+H:\Program Files\Visual_Project\c#projects\LMPlayer\WpfApp1\obj\Debug\WpfApp1.pdb
