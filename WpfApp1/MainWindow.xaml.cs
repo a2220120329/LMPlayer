@@ -211,7 +211,8 @@ namespace WpfApp1
         {
             playstate = false;
             //MusicDispose();
-            wo.Stop();
+            //wo.Stop();
+            player1.pwo.Stop();
             PSlider.Value = 0;
             m1.CurrentTime = "00:00:00";
         }
@@ -239,7 +240,8 @@ namespace WpfApp1
             {
                 if (wo.PlaybackState == NAudio.Wave.PlaybackState.Playing)
                 {
-                    wo.Pause();
+                    //wo.Pause();
+                    player1.pwo.Pause();
                     playstate = false;
                     return;
                 }
